@@ -1,0 +1,45 @@
+{
+    "manifest": {
+        "folder": [
+            "src", 
+            "res"
+        ], 
+        "version": "1.1.223", 
+        "port": 9002, 
+        "increment": true
+    }, 
+    "cdn_deploy_path": "./../deploy/cdn", 
+    "build": {
+        "android": {
+            "store_pass": "ahihi@123", 
+            "alias_name": "key0", 
+            "store_file": "./keystore.jks", 
+            "alias_pass": "ah@123ihi", 
+            "name": {
+                "city": "city", 
+                "first_last_name": "name", 
+                "state": "state", 
+                "organizational_unit": "organizational_unit", 
+                "code_country": "VN", 
+                "organization": "organization"
+            }
+        }
+    }, 
+    "client_path": "./", 
+    "package_url": "http://192.168.1.10:9002", 
+    "deploy_path": "./../deploy", 
+    "gen": {
+        "res": "./res", 
+        "dst": "./src/Resource.js", 
+        "folder": [
+            "*"
+        ], 
+        "ext": [
+            "*.png", 
+            "*.jpg", 
+            "*.json", 
+            "*.mp3"
+        ], 
+        "folder_except": []
+    }
+}

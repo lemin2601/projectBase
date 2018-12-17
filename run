@@ -1,0 +1,7 @@
+#!/bin/bash
+
+reldir=`dirname $0`
+cd $reldir
+directory=`pwd`
+#echo "Directory is $directory"
+cocos run -p web --port=9998 --proj-dir=$directory

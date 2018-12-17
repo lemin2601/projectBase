@@ -1,0 +1,440 @@
+{
+    "packageUrl": "http://192.168.1.10:9002", 
+    "version": "1.1.222", 
+    "assets": {
+        "res/fonts/arial.ttf": {
+            "md5": "05ada5bd099c819f28fbe4a1de2f0a61", 
+            "size": 778552
+        }, 
+        "res/texture/normal/stepper-plus.png": {
+            "md5": "e07ea56ae986dad38b103d4b4fcb6f72", 
+            "size": 522
+        }, 
+        "res/texture/normal/labelatlas.png": {
+            "md5": "c80e907c64716a00b907827216dd5827", 
+            "size": 40152
+        }, 
+        "src/core/NetworkMgr.js": {
+            "md5": "e44c12bbf9f64373aad4231356d9f106", 
+            "size": 699
+        }, 
+        "src/modules/lang/LangMgr.js": {
+            "md5": "bc3a0e276d296ea262259c49ad3bbd40", 
+            "size": 146
+        }, 
+        "res/texture/normal/stepper-minus.png": {
+            "md5": "771366084d61c97f08978e4584328e38", 
+            "size": 545
+        }, 
+        "src/core/plugin/PluginFacebook.js": {
+            "md5": "124ac95e37d8d36cf6c8da7ef51ddb1a", 
+            "size": 7192
+        }, 
+        "src/core/WebSprite.js": {
+            "md5": "6499d6d0309994d1f60101750b70309a", 
+            "size": 1591
+        }, 
+        "res/texture/normal/switch-mask.png": {
+            "md5": "988c692bd8d2f480b11885d9035c83c2", 
+            "size": 10704
+        }, 
+        "res/texture/normal/potentiometerButton.png": {
+            "md5": "f93f80d61895fb8a6fb6870d3797429c", 
+            "size": 5504
+        }, 
+        "res/texture/normal/slider_bar_active_9patch2.png": {
+            "md5": "f1dc66994cd6a980196710756d8dae0f", 
+            "size": 2363
+        }, 
+        "res/ui/node_popus.json": {
+            "md5": "7da90c2bf36d57d619cfc1faaafc04cb", 
+            "size": 6896
+        }, 
+        "src/modules/update/SceneUpdate.js": {
+            "md5": "fca25aa890a2fe9d68a9be2888b7b6ef", 
+            "size": 6154
+        }, 
+        "src/core/StorageMgr.js": {
+            "md5": "d7c68fec92d473794b4180bd0d1edc6f", 
+            "size": 918
+        }, 
+        "res/HelloWorld.png": {
+            "md5": "55ea4e952bf080f300379ec26723598b", 
+            "size": 37864
+        }, 
+        "res/texture/normal/slidbar.png": {
+            "md5": "986c074884ee1a801979aad13622beee", 
+            "size": 2409
+        }, 
+        "src/modules/login/SceneLogin.js": {
+            "md5": "fc84d551cd2a3a3ef2185a9fe4c3924a", 
+            "size": 3417
+        }, 
+        "res/texture/HelloWorld.png": {
+            "md5": "a01656d01186bef6bccbe35356f1f688", 
+            "size": 143085
+        }, 
+        "res/texture/normal/check_box_active.png": {
+            "md5": "9476f5c59633f764ab219980338a9fb0", 
+            "size": 9065
+        }, 
+        "res/texture/normal/btn-b-1.png": {
+            "md5": "878f33f536fe0fe32c2b975847c5ecd1", 
+            "size": 11234
+        }, 
+        "res/texture/normal/sliderProgress2.png": {
+            "md5": "6af5187c95bd6b365dc080663bb3634f", 
+            "size": 3024
+        }, 
+        "res/texture/normal/sliderTrack2.png": {
+            "md5": "6f33962f2e1a502a94e11258d9f30dd5", 
+            "size": 539
+        }, 
+        "res/texture/normal/potentiometerTrack.png": {
+            "md5": "1b8df91ec79cffa60d90c5783940ac21", 
+            "size": 4057
+        }, 
+        "res/texture/normal/labelatlas.pkm@alpha": {
+            "md5": "ae07d6a87fe22803ed978f78608c3018", 
+            "size": 7496
+        }, 
+        "src/.DS_Store": {
+            "md5": "0035690064de000224236d37d603ab08", 
+            "size": 6148
+        }, 
+        "res/Default/ImageFile.png": {
+            "md5": "8b8ddbe2391511ba6e05d975dd2d9dba", 
+            "size": 1735
+        }, 
+        "res/texture/normal/btn-test-2.png": {
+            "md5": "57b63fffcba4592b6b8c42f2d6b8952a", 
+            "size": 7771
+        }, 
+        "src/StorageKey.js": {
+            "md5": "de10f26e1fbc787d8c7a939b37c36cdb", 
+            "size": 50
+        }, 
+        "res/texture/normal/sliderProgress.png": {
+            "md5": "f4ace5a435dc0a09031f7705b5a2021d", 
+            "size": 896
+        }, 
+        "src/Resource.js": {
+            "md5": "2c36d4aafa4a3e52f9ae4a5b14f54a9b", 
+            "size": 3864
+        }, 
+        "res/texture/normal/scrollviewbg.png": {
+            "md5": "d37180efbbe699a4490bfd4403a59dc7", 
+            "size": 39203
+        }, 
+        "res/texture/normal/slider_bar_active_9patch.png": {
+            "md5": "4ac13ceb84c6010f3881151235ab08d8", 
+            "size": 4575
+        }, 
+        "res/texture/normal/bitmapFontTest2.png": {
+            "md5": "966bc96acf89089fb4b23581f6e68008", 
+            "size": 126215
+        }, 
+        "project.json": {
+            "md5": "e3273ea3d2d32119fb3df3c1c3a8961c", 
+            "size": 1494
+        }, 
+        "res/texture/normal/scale-9-demo.png": {
+            "md5": "19bf1f9e531cc0a61bafb94dc49784de", 
+            "size": 6867
+        }, 
+        "res/lang/en.txt": {
+            "md5": "d41d8cd98f00b204e9800998ecf8427e", 
+            "size": 0
+        }, 
+        "res/texture/normal/check_box_active_disable.png": {
+            "md5": "6bd69931aaf42e50c1d3a13b2a8327e1", 
+            "size": 8777
+        }, 
+        "res/lang/vi.txt": {
+            "md5": "d41d8cd98f00b204e9800998ecf8427e", 
+            "size": 0
+        }, 
+        "res/ui/scene_loading.json": {
+            "md5": "3de668701c44133a8e7e29569e28c61c", 
+            "size": 3953
+        }, 
+        "res/Default/LoadingBarFile.png": {
+            "md5": "53a230f3f1b2d64e87a742debfd489bd", 
+            "size": 1115
+        }, 
+        "res/texture/normal/check_box_normal_press.png": {
+            "md5": "ea33ecdc009b9af2014ed74276cfae2e", 
+            "size": 8894
+        }, 
+        "src/core/ui/BaseCocosStudio.js": {
+            "md5": "bb09b2c439801f612a669ad0cfad80c6", 
+            "size": 2297
+        }, 
+        "src/modules/menu/SceneMenu.js": {
+            "md5": "078cc43e0835590c0e9bcc20c7a5ac05", 
+            "size": 4941
+        }, 
+        "res/texture/normal/sliderTrack.png": {
+            "md5": "fe0bec1abddc5f1cdef1fc1479838bb6", 
+            "size": 1408
+        }, 
+        "res/texture/normal/backtotopnormal.png": {
+            "md5": "5ff3ddd4c487a77e13242ec77c0b0bf6", 
+            "size": 23967
+        }, 
+        "src/modules/loading/SceneLoading.js": {
+            "md5": "9e3cc21e4b0d743d33c28ffa06c40963", 
+            "size": 13794
+        }, 
+        "res/texture/normal/btn-test-1.png": {
+            "md5": "7ee7b304b25f3f171c8dc9294f5b811b", 
+            "size": 6621
+        }, 
+        "res/texture/normal/bitmapFontTest2.fnt": {
+            "md5": "1e69a775ba32a4a6058a4a97ccd7bc99", 
+            "size": 15085
+        }, 
+        "res/texture/normal/switch-on.png": {
+            "md5": "8c3a02da2acb9bccfe3caab566081d51", 
+            "size": 1080
+        }, 
+        "src/libs/core.min.js": {
+            "md5": "a6979ad394d6e0da7f690e7be5e29b8f", 
+            "size": 12582
+        }, 
+        "res/texture/normal/buttonBackground.png": {
+            "md5": "4bfec490c7256449392819655be330da", 
+            "size": 498
+        }, 
+        "res/texture/normal/btn-b-2.png": {
+            "md5": "06dee2b863e0e9669cd3ffde69aa16be", 
+            "size": 10814
+        }, 
+        "main.js": {
+            "md5": "133a0fb1c4b6cfaa4cd948b26e8ed9ca", 
+            "size": 6697
+        }, 
+        "res/ui/scene_login.json": {
+            "md5": "b8620934a75b26361a8e2745564e5b60", 
+            "size": 2572
+        }, 
+        "res/Default/Button_Press.png": {
+            "md5": "ea5e72abd451a76f62a2906abb7ef4bf", 
+            "size": 1153
+        }, 
+        "res/texture/normal/background.png": {
+            "md5": "fe2d9eacea5da4abaa172390fe99fd75", 
+            "size": 103086
+        }, 
+        "src/modules/popup/PopupData.js": {
+            "md5": "4dc9617577feab90fb6d37c50992d16f", 
+            "size": 246
+        }, 
+        "src/modules/SceneMgr.js": {
+            "md5": "f6ab1ab7c8ad398173291498512f9aad", 
+            "size": 2629
+        }, 
+        "res/texture/normal/CloseSelected.png": {
+            "md5": "3bb221ad5ce27057c62cde15fc13444f", 
+            "size": 5499
+        }, 
+        "src/core/ui/BaseScene.js": {
+            "md5": "dd1b6cf67e39c702ac094f889fc44b52", 
+            "size": 2327
+        }, 
+        "res/texture/normal/CCControlColourPickerSpriteSheet.plist": {
+            "md5": "68a8c0f8c949f822feebcf4c542aafd4", 
+            "size": 4137
+        }, 
+        "res/texture/normal/Hello.png": {
+            "md5": "7bd3baba5006ac4713e9619958373782", 
+            "size": 620474
+        }, 
+        "res/texture/normal/green_edit.png": {
+            "md5": "9bea43debe01dde0e38ab8d75fbee56c", 
+            "size": 6749
+        }, 
+        "src/core/plugin/PluginSocial.js": {
+            "md5": "634d7c477b7e83032ae08dbab655a3d2", 
+            "size": 407
+        }, 
+        "res/texture/normal/animationbuttonpressed.png": {
+            "md5": "ddf039cedab1d2019e11d8b35f38908b", 
+            "size": 19458
+        }, 
+        "res/ui/scene_game.json": {
+            "md5": "184fe0c9f78180efcd620094db2733c3", 
+            "size": 3744
+        }, 
+        "res/texture/normal/potentiometerProgress.png": {
+            "md5": "42fe0eedab1340d7e151d855f702c150", 
+            "size": 10441
+        }, 
+        "res/texture/normal/sliderballnormal.png": {
+            "md5": "7131a6bde9f8ad1d465152b732bcd313", 
+            "size": 4138
+        }, 
+        "res/Default/Button_Normal.png": {
+            "md5": "5f8329d6525b01810d68e39036e5f066", 
+            "size": 1113
+        }, 
+        "res/texture/normal/buttonHighlighted.png": {
+            "md5": "ee9501619220fd13abe66dda9a48ffc0", 
+            "size": 2361
+        }, 
+        "res/texture/normal/btn-b-0.png": {
+            "md5": "e201411d0fbe088204aa615ee9a3ab07", 
+            "size": 11914
+        }, 
+        "res/texture/normal/yellow_edit.png": {
+            "md5": "977e35d0b96bbb408ca15927684ceda3", 
+            "size": 6394
+        }, 
+        "src/LangKey.js": {
+            "md5": "be9892d67e1a2d60d5a62bf402be7e95", 
+            "size": 638
+        }, 
+        "res/sdkbox_config.json": {
+            "md5": "2767c3b558c4369d6764104a6660030c", 
+            "size": 164
+        }, 
+        "res/texture/normal/orange_edit.png": {
+            "md5": "d660b2618839874ac807799331a5e72a", 
+            "size": 3758
+        }, 
+        "res/texture/normal/btn-a-0.png": {
+            "md5": "17a2a68c767a58107199ecc42ecc2a50", 
+            "size": 11604
+        }, 
+        "src/core/AudioMgr.js": {
+            "md5": "5b7c33d76686fc20d2ec7018fb4d4ded", 
+            "size": 495
+        }, 
+        "src/modules/player/PlayerInfo.js": {
+            "md5": "58ac1902872a1092f89b8421540541d2", 
+            "size": 112
+        }, 
+        "res/texture/normal/button.png": {
+            "md5": "995257c398f97fd45d5132474a18a7f3", 
+            "size": 2144
+        }, 
+        "res/texture/normal/btn-a-1.png": {
+            "md5": "b05acf40e40d6fbc627df43a1f8b690d", 
+            "size": 11006
+        }, 
+        "res/texture/normal/btn-a-2.png": {
+            "md5": "5eacd03b18e4df66d7ab35d0db28121b", 
+            "size": 10636
+        }, 
+        "src/GlobalVar.js": {
+            "md5": "079deeef0fe6aebe4258755742cc55ed", 
+            "size": 538
+        }, 
+        "src/modules/loading/LoadResource.js": {
+            "md5": "19a4d9538287531e8c4e262284e4748f", 
+            "size": 74
+        }, 
+        "src/core/utils/Utils.js": {
+            "md5": "4645b3b41a56f07fe7f2c6b938957e14", 
+            "size": 461
+        }, 
+        "res/Default/Button_Disable.png": {
+            "md5": "fa79821349dd686f516187283bc2fb8c", 
+            "size": 1111
+        }, 
+        "res/loading.js": {
+            "md5": "9a2380798eaba56fc1fead88cdcb2196", 
+            "size": 5076
+        }, 
+        "res/texture/normal/logo-icon.png": {
+            "md5": "8d49b5863952f39d862484221bee2088", 
+            "size": 57634
+        }, 
+        "res/texture/normal/ribbon.png": {
+            "md5": "ebf50e2e5fb09782be7ce379c3e468ec", 
+            "size": 983
+        }, 
+        "res/texture/normal/ccicon.png": {
+            "md5": "2957c28b55e3eb10365a9b0ae5df2c07", 
+            "size": 32929
+        }, 
+        "res/texture/normal/labelatlas.pkm": {
+            "md5": "f4e49019a34f3e96aef388f851bfcb84", 
+            "size": 7496
+        }, 
+        "res/texture/normal/sliderThumb.png": {
+            "md5": "787bfeff34403010612397929333c0d5", 
+            "size": 4158
+        }, 
+        "res/texture/normal/check_box_normal_disable.png": {
+            "md5": "8cd41dae01d2307a57606d1208771086", 
+            "size": 8338
+        }, 
+        "res/texture/normal/switch-off.png": {
+            "md5": "df3eabcf24b4b6d868624b12dab48341", 
+            "size": 1169
+        }, 
+        "src/modules/popup/Popups.js": {
+            "md5": "a998f14944cd4e7d0b22b9772447335c", 
+            "size": 2853
+        }, 
+        "src/core/utils/Log.js": {
+            "md5": "1afcf78f2fea55857d05a446bf96ce64", 
+            "size": 419
+        }, 
+        "res/Default/Sprite.png": {
+            "md5": "380f19a83e69524450a3fc2b466dc275", 
+            "size": 1773
+        }, 
+        "res/texture/normal/check_box_normal.png": {
+            "md5": "0f3ca787aa41906abda2ffdce2f1cdc1", 
+            "size": 8586
+        }, 
+        "res/ui/scene_menu.json": {
+            "md5": "9a0b131cf0f5cebda6f0ae42c6b3e47e", 
+            "size": 15308
+        }, 
+        "res/ui/scene_update.json": {
+            "md5": "29541a471ae77fbefbaa98a00039615f", 
+            "size": 6436
+        }, 
+        "res/texture/normal/CCControlColourPickerSpriteSheet.png": {
+            "md5": "850cc0518f7e9e52ff06b71332705eb3", 
+            "size": 38149
+        }, 
+        "res/sounds/background.mp3": {
+            "md5": "39678e09267839e4b68903bdff9a4376", 
+            "size": 128313
+        }, 
+        "src/core/update/UpdateResource.js": {
+            "md5": "069bffbb64f6cbc005630b2f82dded0c", 
+            "size": 14268
+        }, 
+        "res/texture/normal/animationbuttonnormal.png": {
+            "md5": "d61f58b577ffff754765fd4251781fe9", 
+            "size": 19887
+        }, 
+        "res/texture/normal/btn-test-0.png": {
+            "md5": "c4cbe758fbc0b01949e2a0b4914b8e14", 
+            "size": 7807
+        }, 
+        "res/texture/normal/switch-thumb.png": {
+            "md5": "afbb3b37c3aba2d3580382b64932998a", 
+            "size": 2292
+        }, 
+        "src/core/ui/BaseNode.js": {
+            "md5": "cf8cd512f81ae5d1dadfade443728e0c", 
+            "size": 657
+        }, 
+        "res/texture/normal/check_box_active_press.png": {
+            "md5": "896a780c6fbd638d402279a69d117041", 
+            "size": 9264
+        }, 
+        "res/texture/normal/backtotoppressed.png": {
+            "md5": "a50970b882ed86884c39cabc242f0fc1", 
+            "size": 23834
+        }
+    }, 
+    "remoteVersionUrl": "http://192.168.1.10:9002/version.manifest", 
+    "remoteManifestUrl": "http://192.168.1.10:9002/project.manifest"
+}
