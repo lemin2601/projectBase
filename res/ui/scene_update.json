@@ -1,0 +1,254 @@
+{
+  "ID": "f384ce68-3be3-4ef8-bc24-7b9ef1183e2e",
+  "Version": "2.2.8.0",
+  "Name": "scene_update",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 15,
+        "Children": [
+          {
+            "ProgressInfo": 100,
+            "ImageFileData": {
+              "Type": "Default",
+              "Path": "Default/LoadingBarFile.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 487.1598,
+              "Y": 206.7924
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5075,
+              "Y": 0.3231
+            },
+            "PreSize": {
+              "X": 0.625,
+              "Y": 0.0219
+            },
+            "LeftMargin": 187.1598,
+            "RightMargin": 172.8402,
+            "TopMargin": 426.2076,
+            "BottomMargin": 199.7924,
+            "Tag": 16,
+            "ActionTag": 2031326222,
+            "Size": {
+              "X": 600.0,
+              "Y": 14.0
+            },
+            "Name": "loadingBar",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "0/100",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 823.4548,
+              "Y": 131.209
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8578,
+              "Y": 0.205
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 798.4548,
+            "RightMargin": 111.5452,
+            "TopMargin": 497.291,
+            "BottomMargin": 119.709,
+            "Tag": 17,
+            "ActionTag": -455069141,
+            "Size": {
+              "X": 50.0,
+              "Y": 23.0
+            },
+            "Name": "txtPercentTotal",
+            "ctype": "TextObjectData"
+          },
+          {
+            "ProgressInfo": 100,
+            "ImageFileData": {
+              "Type": "Default",
+              "Path": "Default/LoadingBarFile.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 490.3984,
+              "Y": 131.1599
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5108,
+              "Y": 0.2049
+            },
+            "PreSize": {
+              "X": 0.625,
+              "Y": 0.0219
+            },
+            "LeftMargin": 190.3984,
+            "RightMargin": 169.6016,
+            "TopMargin": 501.8401,
+            "BottomMargin": 124.1599,
+            "Tag": 18,
+            "ActionTag": -1961817101,
+            "Size": {
+              "X": 600.0,
+              "Y": 14.0
+            },
+            "Name": "loadingBarTotal",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "0/100",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 824.0454,
+              "Y": 205.8914
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8584,
+              "Y": 0.3217
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 799.0454,
+            "RightMargin": 110.9546,
+            "TopMargin": 422.6086,
+            "BottomMargin": 194.3914,
+            "Tag": 19,
+            "ActionTag": -1674524790,
+            "Size": {
+              "X": 50.0,
+              "Y": 23.0
+            },
+            "Name": "txtPercent",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "Resource Uploading",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 479.2686,
+              "Y": 267.3436
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4992,
+              "Y": 0.4177
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 433.7686,
+            "RightMargin": 435.2313,
+            "TopMargin": 361.1564,
+            "BottomMargin": 255.8436,
+            "Tag": 16,
+            "ActionTag": -1323259032,
+            "Size": {
+              "X": 181.0,
+              "Y": 23.0
+            },
+            "Name": "txtStatus",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

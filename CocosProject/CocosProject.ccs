@@ -1,0 +1,89 @@
+<Solution>
+  <PropertyGroup Name="CocosProject" Version="2.2.8.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="texture">
+          <Image Name="HelloWorld.png" />
+          <Folder Name="common">
+            <Image Name="facebook-sign-in-button.png" />
+          </Folder>
+          <Folder Name="normal">
+            <Fnt Name="bitmapFontTest2.fnt" />
+            <PlistImageFolder Image="CCControlColourPickerSpriteSheet.png" PListFile="CCControlColourPickerSpriteSheet.plist" Name=".CCControlColourPickerSpriteSheet_PList.Dir">
+              <PlistImageFile Name="colourPicker.png" Key="colourPicker.png" />
+              <PlistImageFile Name="colourPickerBackground.png" Key="colourPickerBackground.png" />
+              <PlistImageFile Name="colourPickerOverlay.png" Key="colourPickerOverlay.png" />
+              <PlistImageFile Name="colourPickerShadow.png" Key="colourPickerShadow.png" />
+              <PlistImageFile Name="huePickerBackground.png" Key="huePickerBackground.png" />
+              <PlistImageFile Name="menuCircleWhite.png" Key="menuCircleWhite.png" />
+              <PlistImageFile Name="menuColourPanelBackground.png" Key="menuColourPanelBackground.png" />
+            </PlistImageFolder>
+            <File Name="labelatlas.pkm" />
+            <File Name="labelatlas.pkm@alpha" />
+            <Image Name="animationbuttonnormal.png" />
+            <Image Name="animationbuttonpressed.png" />
+            <Image Name="background.png" />
+            <Image Name="backtotopnormal.png" />
+            <Image Name="backtotoppressed.png" />
+            <Image Name="btn-a-0.png" />
+            <Image Name="btn-a-1.png" />
+            <Image Name="btn-a-2.png" />
+            <Image Name="btn-b-0.png" />
+            <Image Name="btn-b-1.png" />
+            <Image Name="btn-b-2.png" />
+            <Image Name="btn-test-0.png" />
+            <Image Name="btn-test-1.png" />
+            <Image Name="btn-test-2.png" />
+            <Image Name="button.png" />
+            <Image Name="buttonBackground.png" />
+            <Image Name="buttonHighlighted.png" />
+            <Image Name="ccicon.png" />
+            <Image Name="check_box_active.png" />
+            <Image Name="check_box_active_disable.png" />
+            <Image Name="check_box_active_press.png" />
+            <Image Name="check_box_normal.png" />
+            <Image Name="check_box_normal_disable.png" />
+            <Image Name="check_box_normal_press.png" />
+            <Image Name="CloseSelected.png" />
+            <Image Name="green_edit.png" />
+            <Image Name="Hello.png" />
+            <Image Name="labelatlas.png" />
+            <Image Name="logo-icon.png" />
+            <Image Name="orange_edit.png" />
+            <Image Name="potentiometerButton.png" />
+            <Image Name="potentiometerProgress.png" />
+            <Image Name="potentiometerTrack.png" />
+            <Image Name="ribbon.png" />
+            <Image Name="scale-9-demo.png" />
+            <Image Name="scrollviewbg.png" />
+            <Image Name="slidbar.png" />
+            <Image Name="sliderballnormal.png" />
+            <Image Name="sliderProgress.png" />
+            <Image Name="sliderProgress2.png" />
+            <Image Name="sliderThumb.png" />
+            <Image Name="sliderTrack.png" />
+            <Image Name="sliderTrack2.png" />
+            <Image Name="slider_bar_active_9patch.png" />
+            <Image Name="slider_bar_active_9patch2.png" />
+            <Image Name="stepper-minus.png" />
+            <Image Name="stepper-plus.png" />
+            <Image Name="switch-mask.png" />
+            <Image Name="switch-off.png" />
+            <Image Name="switch-on.png" />
+            <Image Name="switch-thumb.png" />
+            <Image Name="yellow_edit.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="ui">
+          <Project Name="scene_loading.csd" Type="Scene" />
+          <Project Name="scene_menu.csd" Type="Scene" />
+          <Project Name="scene_game.csd" Type="Scene" />
+          <Project Name="scene_update.csd" Type="Scene" />
+          <Project Name="node_popus.csd" Type="Node" />
+          <Project Name="scene_login.csd" Type="Scene" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

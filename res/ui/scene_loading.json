@@ -1,0 +1,206 @@
+{
+  "ID": "a777ca2d-baaf-4d3f-80ba-1f647a28fa04",
+  "Version": "2.2.8.0",
+  "Name": "scene_loading",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 15,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/ImageFile.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0405,
+              "Y": 0.0719
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 545.0,
+            "RightMargin": 545.0,
+            "TopMargin": 297.0,
+            "BottomMargin": 297.0,
+            "Tag": 33,
+            "ActionTag": -1721402365,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "imgBg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "texture/normal/sliderTrack.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 200.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3125
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "LeftMargin": 318.0,
+            "RightMargin": 318.0,
+            "TopMargin": 427.0,
+            "BottomMargin": 187.0,
+            "Tag": 25,
+            "ActionTag": -1669422525,
+            "Size": {
+              "X": 500.0,
+              "Y": 26.0
+            },
+            "Name": "sliderTrack_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "texture/normal/sliderProgress.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 199.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3109
+            },
+            "PreSize": {
+              "X": 0.4401,
+              "Y": 0.0406
+            },
+            "LeftMargin": 318.0,
+            "RightMargin": 318.0,
+            "TopMargin": 428.0,
+            "BottomMargin": 186.0,
+            "Tag": 18,
+            "ActionTag": -17829922,
+            "Size": {
+              "X": 500.0,
+              "Y": 26.0
+            },
+            "Name": "loadingBar",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "loading ...0%",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 153.1193
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.2392
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 510.5,
+            "RightMargin": 510.5,
+            "TopMargin": 475.3807,
+            "BottomMargin": 141.6193,
+            "Tag": 31,
+            "ActionTag": 1359885246,
+            "Size": {
+              "X": 115.0,
+              "Y": 23.0
+            },
+            "Name": "txtPercent",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

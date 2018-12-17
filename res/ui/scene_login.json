@@ -1,0 +1,102 @@
+{
+  "ID": "75e2cba1-34b2-4363-af71-3a41f3961a5d",
+  "Version": "2.2.8.0",
+  "Name": "scene_login",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 9,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "texture/common/facebook-sign-in-button.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "texture/common/facebook-sign-in-button.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "texture/common/facebook-sign-in-button.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 770,
+            "Scale9Height": 278,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 558.265,
+              "Y": 378.4105
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4914,
+              "Y": 0.5913
+            },
+            "PreSize": {
+              "X": 0.7042,
+              "Y": 0.4688
+            },
+            "LeftMargin": 158.265,
+            "RightMargin": 177.735,
+            "TopMargin": 111.5895,
+            "BottomMargin": 228.4105,
+            "Tag": 10,
+            "ActionTag": -1464890908,
+            "Size": {
+              "X": 800.0,
+              "Y": 300.0
+            },
+            "Name": "btnLoginFacebook",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}
